@@ -1,0 +1,21 @@
+.background{
+    background-color:rgb(125, 125, 234);
+    height:100vh;
+    text-align:center;
+}
+.input{
+    text-align: center;
+    height:7vh;
+    width:25vw;
+    margin-top:50px;
+}
+.image{
+    height:30vh;
+    width:15vw;
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.number{
+    color:white;
+    font-weight:bold;
+}
